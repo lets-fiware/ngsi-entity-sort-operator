@@ -2,7 +2,7 @@
 <operator xmlns="http://wirecloud.conwet.fi.upm.es/ns/macdescription/1" vendor="FISUDA" name="ngsi-entity-sort" version="0.1.0">
 
     <details>
-        <title>NGSI entity operator</title>
+        <title>NGSI entity sort operator</title>
         <homepage>https://github.com/lets-fiware/ngsi-entity-sort-operator</homepage>
         <authors>Kazuhito Suda</authors>
         <email>wirecloud@fisuda.jp</email>
@@ -27,7 +27,7 @@
 
     <wiring>
         <inputendpoint name="entityInput" label="In" type="text" description="Received entities will be sorted by specified attribute"  friendcode="entity-list list"/>
-        <outputendpoint name="entityOutput" label="Out" type="text"  description="Entities filtered from the received entities"  friendcode="entity-list list"/>
+        <outputendpoint name="entityOutput" label="Out" type="text"  description="Entities sorted from the received entities"  friendcode="entity-list list"/>
     </wiring>
 
     <scripts>
