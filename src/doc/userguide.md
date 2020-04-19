@@ -15,7 +15,7 @@ Received entities will be sorted by specified attribute
 
 ### Output Endpoints
 
-Entities filtered from the received entities
+Entities sorted from the received entities
 
 ## Usage
 
