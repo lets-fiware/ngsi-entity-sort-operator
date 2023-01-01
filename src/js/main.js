@@ -2,7 +2,7 @@
  * NGSI entity sort operator
  * https://github.com/lets-fiware/ngsi-entity-sort-operator
  *
- * Copyright (c) 2020 Kazuhito Suda
+ * Copyright (c) 2020-2023 Kazuhito Suda
  * Licensed under the MIT license.
  */
 
